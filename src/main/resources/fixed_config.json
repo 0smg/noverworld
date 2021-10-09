@@ -16,7 +16,7 @@
   },
   "inventory": [
     {
-      "name": "wooden_axe",
+      "name": "iron_axe",
       "count": "1-1",
       "damage": 10,
       "slot": 0,
@@ -32,7 +32,7 @@
       "unique": true
     },
     {
-      "name": "iron_shovel",
+      "name": "netherite_shovel",
       "count": "1-1",
       "damage": 10,
       "slot": 2,
@@ -42,21 +42,21 @@
     {
       "name": "lava_bucket",
       "count": "1-1",
-      "slot": 3,
+      "slot": 4,
       "editable": true,
       "unique": true
     },
     {
       "name": "oak_planks",
       "count": "22-22",
-      "slot": 4,
+      "slot": 5,
       "editable": true,
       "unique": true
     },
     {
       "name": "oak_boat",
       "count": "1-1",
-      "slot": 5,
+      "slot": 3,
       "editable": true,
       "unique": true
     },
@@ -71,14 +71,14 @@
       "name": "flint_and_steel",
       "count": "1-1",
       "damage": 1,
-      "slot": 7,
+      "slot": 27,
       "editable": true,
       "unique": true
     },
     {
       "name": "stick",
       "count": "2-2",
-      "slot": 8,
+      "slot": 28,
       "editable": true,
       "unique": true
     },
@@ -113,7 +113,7 @@
     {
       "name": "bread",
       "count": "5-5",
-      "slot": 40,
+      "slot": 35,
       "editable": true,
       "unique": true
     }
